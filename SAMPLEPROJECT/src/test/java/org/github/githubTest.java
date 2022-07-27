@@ -16,5 +16,6 @@ public void Github1Test() {
 @Test
 public void Github2Test() {
 	System.out.println("hii");
+	System.out.println("hii");
 }
 }
